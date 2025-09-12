@@ -67,7 +67,7 @@ Email the following to `team@cosmiclabs.io`:
 
 * PDF resume
 
-**Deadline:** Applications reviewed on a rolling basis. Final deadline is EOD August 28, 2025.
+**Deadline:** Applications reviewed on a rolling basis. Final deadline is EOD September 20, 2025.
 
 ---
 
