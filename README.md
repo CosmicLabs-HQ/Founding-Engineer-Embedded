@@ -1,4 +1,4 @@
-# Founding Engineer – Embedded Systems x Edge AI x Low-SWaP Inference
+# Founding Engineer – Embedded Systems Engineering
 
 **Location:** In-person, San Francisco (Relocation Supported)
 **Type:** Full-time | Competitive Pay + Equity
