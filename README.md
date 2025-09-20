@@ -13,7 +13,7 @@
 * Optimize model execution pipelines across CPUs, GPUs, NPUs, custom silicon
 * Build embedded runtime systems for degraded, disconnected, and contested environments
 * Develop intelligent, performance-aware agents with tight control loops and minimal overhead
-* Collaborate closely with the founding team to define our low-SWaP infrastructure and core product direction
+* Collaborate closely with the founding team to define our infrastructure and core product direction
 
 ---
 
